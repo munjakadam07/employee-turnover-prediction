@@ -44,5 +44,5 @@ Employee_Turnover
 - Model evaluation and comparison
 
 ## Author
-Munjyakadam
+Munja Kadam
 AI & Data Science Student
